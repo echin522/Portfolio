@@ -46,7 +46,7 @@ $(function() {
 
   var json;
 
-  $.getJSON( "https://brianho.io/js/data.json", function( data ) {
+  $.getJSON( "js/data.json", function( data ) {
     json = data;
   });
 
