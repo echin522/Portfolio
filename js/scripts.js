@@ -76,17 +76,17 @@ $(function() {
     var content = json.edu.join('\n');
     $('.about').replaceWith('<div class="about animated fadeIn">' + content + '</div>');
 
-    $("#eecs").click(function(e) {
-      console.log("eecs was clicked")
+    $("#math").click(function(e) {
+      console.log("math was clicked")
       e.preventDefault();
-      var content = json.eecs.join('\n');
+      var content = json.math.join('\n');
       $('.courses').replaceWith('<ul class="courses animated fadeIn">' + content + '</ul>');
     });
 
-    $("#econ").click(function(e) {
-      console.log("econ was clicked")
+    $("#mae").click(function(e) {
+      console.log("mae was clicked")
       e.preventDefault();
-      var content = json.econ.join('\n');
+      var content = json.mae.join('\n');
       $('.courses').replaceWith('<ul class="courses animated fadeIn">' + content + '</ul>');
     });
   });
