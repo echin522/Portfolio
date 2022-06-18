@@ -1,3 +1,6 @@
+// ORIGINAL PORTFOLIO CREATED BY BRIAN HO https://github.com/mrbrianhobo
+
+
 $(window).load(function() {
 /*-----------------------------------------------------------------------------------*/
 /*   INIT SKROLLR
@@ -53,10 +56,11 @@ $(function() {
   var typed = new Typed('#typed', {
       strings: [
         'an Aerospace Engineer 🚀',
+        'a Pantheon Main <i class="fas fa-helmet-battle"></i>',
         'a Former NCAA Swimmer 🏊',
         'a Hedgehog Enjoyer 🦔',
+        'a Keyboard Collector ',
         'a Shrimp Breeder 🦐',
-        'a Video Gamer 🎮'
 
       ],
       loop: true,

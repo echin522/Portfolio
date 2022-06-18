@@ -1,3 +1,5 @@
+/* ORIGINAL PORTFOLIO CREATED BY BRIAN HO https://github.com/mrbrianhobo */
+
 /* Grid Elements */
 .span_12_of_12 {
 	width: 100%;
@@ -283,6 +285,10 @@
     top: 100px;
 }
 
+.section.group .col:nth-child(2) {
+	
+}
+
 @media screen and (max-width: 750px) {
 	.col {
 		margin: 1% 0 1% 0%;
@@ -377,7 +383,6 @@ nav ul {
 
 nav ul li {
 	display: inline-block;
-	margin-left: 40px;
 }
 
 nav ul li a {
@@ -394,6 +399,10 @@ nav ul li a:hover {
 }
 
 nav ul.centernav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 150px;
 	text-align: center;
 	margin: 0px auto;
 	display: block;
@@ -785,7 +794,6 @@ footer .content {
 
 .menu__item {
 	display: block;
-	margin: 1em 0;
 	font-size: 16px;
 }
 

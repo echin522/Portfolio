@@ -19,21 +19,21 @@
 			"<li class=\"course\"><p>Introduction to Numerical Analysis: Approximation and Nonlinear Equations (MATH 170B)</p></li>",
 		"</ul>"
 	],
-	"math": [
+	"mae": [
 		"<li class=\"course\"><p>Elements of Materials Science (MAE 20)</p></li>",
 		"<li class=\"course\"><p>Introductory Fluid Mechanics (MAE 101A)</p></li>",
 		"<li class=\"course\"><p>Advanced Fluid Mechanics (MAE 101B)</p></li>",
 		"<li class=\"course\"><p>Mechanics I: Statics (MAE 130A)</p></li>",
 		"<li class=\"course\"><p>Mechanics II: Dynamics (MAE 130B)</p></li>",
-		"<li class=\"course\"><p>Solid Mechanics (MAE 131A)</p></li>",
-		"<li class=\"course\"><p>Spacecraft Guidance (MAE 180A)</p></li>",
-		"<li class=\"course\"><p>Introduction to Numerical Analysis: Approximation and Nonlinear Equations (MATH 170B)</p></li>"
+		"<li class=\"course\"><p>Solid Mechanics (MAE 131A)</p></li>"
 	],
-	"mae": [
-		"<li class=\"course\"><p>Microeconomic Theory (ECON 101A)</p></li>",
-		"<li class=\"course\"><p>Macroeconomic Analysis (ECON 100B)</p></li>",
-		"<li class=\"course\"><p>Game Theory in the Social Sciences (POLISCI 135/ECON C110)</p></li>",
-		"<li class=\"course\"><p>The International Economy of the 20th Century (HISTORY 160)</p></li>"
+	"math": [
+		"<li class=\"course\"><p>Applied Linear Algebra (MATH 102)</p></li>",
+		"<li class=\"course\"><p>Mathematical Reasoning (MATH 109)</p></li>",
+		"<li class=\"course\"><p>Foundations of Real Analysis I (MATH 140A)</p></li>",
+		"<li class=\"course\"><p>Foundations of Real Analysis II (MATH 140B)</p></li>",
+		"<li class=\"course\"><p>Introduction to Numerical Analysis: Linear Algebra (MATH 170A)</p></li>",
+		"<li class=\"course\"><p>Introduction to Numerical Analysis: Approximation and Nonlinear Equations (MATH 170B)</p></li>"
 	],
 	"work": [
 		"<a href=\"https://www.dapperlabs.com/\"><img class=\"logo\" src=\"img/dapper.jpg\"></img></a>",
