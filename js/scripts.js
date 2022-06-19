@@ -55,12 +55,12 @@ $(function() {
 
   var typed = new Typed('#typed', {
       strings: [
+        'a Keyboard Collector ⌨️',
         'an Aerospace Engineer 🚀',
-        'a Pantheon Main <i class="fas fa-helmet-battle"></i>',
         'a Former NCAA Swimmer 🏊',
         'a Hedgehog Enjoyer 🦔',
-        'a Keyboard Collector ',
         'a Shrimp Breeder 🦐',
+        'a Pantheon Main 𓐬',
 
       ],
       loop: true,

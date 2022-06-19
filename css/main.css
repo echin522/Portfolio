@@ -281,8 +281,15 @@
 
 .col:first-child {
 	margin-left: 0;
+}
+
+#section-one .col:first-child{
+	margin-top: 10%;
+}
+
+#about .section.group .col:first-child {
 	position: sticky;
-    top: 100px;
+    top: 30vh;
 }
 
 .section.group .col:nth-child(2) {
@@ -292,6 +299,14 @@
 @media screen and (max-width: 750px) {
 	.col {
 		margin: 1% 0 1% 0%;
+	}
+
+	#about .section.group .col:first-child {
+		position: static;
+	}
+
+	.container > section {
+		margin-top: 200px;
 	}
 }
 
@@ -387,6 +402,7 @@ nav ul li {
 
 nav ul li a {
 	color: rgba(138, 140, 142,.8);
+	padding: 6px;
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-o-transition: all 0.4s ease-in-out;
@@ -402,7 +418,7 @@ nav ul.centernav {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	width: 150px;
+	width: 175px;
 	text-align: center;
 	margin: 0px auto;
 	display: block;
@@ -440,7 +456,7 @@ nav ul.sidenav a:hover {
 .header {
 	padding-top: 240px;
 	margin-bottom: 150px;
-	height: 400px;
+	height: fit-content;
 } 
 
 @media screen and (max-width: 750px) {
@@ -462,6 +478,12 @@ nav ul.sidenav a:hover {
 		width: 100%;
 	}
 }
+
+/* @media screen and (min-width: 1200px) {
+	.container > section {
+		margin-top: 600px !important;
+	}
+} */
 
 @media screen and (max-width: 836px) {
 	.header h1 {
@@ -533,6 +555,7 @@ nav ul.sidenav a:hover {
 #about {
 	margin-top: 150px;
 	padding-bottom: 50px;
+	height: fit-content;
 }
 
 .about {
