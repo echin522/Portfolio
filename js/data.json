@@ -5,6 +5,35 @@
 		"<p>Now, I'm looking to making coding my full time passion. This is only a small part of my story, and I'd be more than happy to share the whole picture. Feel free to message me through any of the provided links at the bottom of this page. Enjoy your stay!</p>"
 	],
 	"edu": [
+		"<p class=\"school-names\"><span><a id=\"app-academy\">A/A</a> | <a id=\"ucsd\">UCSD</a> | <a id=\"uci\">UCI</a></span></p>",
+		"<div id=\"school\">",
+			"<h2>University of California, San Diego (2016 - 2020)</h2>",
+			"<p class=\"first-elem\"> - B.S. Mathematics/Applied Science</p>",
+			"<p class=\"elem\"> - Mechanical Engineering Minor</p>",
+			"<p class=\"elem\"> - Men's Swim & Dive</p>",
+			"<p class=\"course\">Courses (<a id=\"math\">Math</a>/<a id=\"mae\">Mechanical Engineering</a>):</p>",
+			"<ul class=\"courses\">",
+				"<li class=\"course\"><p>Applied Linear Algebra (MATH 102)</p></li>",
+				"<li class=\"course\"><p>Mathematical Reasoning (MATH 109)</p></li>",
+				"<li class=\"course\"><p>Foundations of Real Analysis I (MATH 140A)</p></li>",
+				"<li class=\"course\"><p>Foundations of Real Analysis II (MATH 140B)</p></li>",
+				"<li class=\"course\"><p>Introduction to Numerical Analysis: Linear Algebra (MATH 170A)</p></li>",
+				"<li class=\"course\"><p>Introduction to Numerical Analysis: Approximation and Nonlinear Equations (MATH 170B)</p></li>",
+			"</ul>",
+		"</div>"
+	],
+	"appAcademy": [
+		"<h2>App Academy (Feb - June 2022)</h2>",
+		"<p class=\"first-elem\">Software Engineering Bootcamp</p>",
+		"<p class=\"course\">Languages: Ruby | Javascript | SQL</p>",
+		"<ul class=\"courses\">",
+			"<li class=\"course\"><p>Frameworks: Ruby on Rails, Express, jQuery</p></li>",
+			"<li class=\"course\"><p>Libraries: ThreeJS, Web Speech API, React</p></li>",
+			"<li class=\"course\"><p>Databases: PostgreSQL, MongoDB, AWS S3, AWS IAM</p></li>",
+			"<li class=\"course\"><p>Others: NodeJS, ActiveRecord, React Hooks, Multer</p></li>",
+		"</ul>"
+	],
+	"ucsd": [
 		"<h2>University of California, San Diego (2016 - 2020)</h2>",
 		"<p class=\"first-elem\"> - B.S. Mathematics/Applied Science</p>",
 		"<p class=\"elem\"> - Mechanical Engineering Minor</p>",
@@ -17,6 +46,24 @@
 			"<li class=\"course\"><p>Foundations of Real Analysis II (MATH 140B)</p></li>",
 			"<li class=\"course\"><p>Introduction to Numerical Analysis: Linear Algebra (MATH 170A)</p></li>",
 			"<li class=\"course\"><p>Introduction to Numerical Analysis: Approximation and Nonlinear Equations (MATH 170B)</p></li>",
+		"</ul>"
+	],
+	"uci": [
+		"<h2>University of California, Irvine (2021 - 2022)</h2>",
+		"<p class=\"first-elem\"> - M.Eng Mechanical Engineering</p>",
+		"<p class=\"elem\"> - Renewable Energy Systems</p>",
+		"<p class=\"course\">Courses:</p>",
+		"<ul class=\"courses\">",
+			"<li class=\"course\"><p>Energy Storage Systems and Technology (ENGRMAE 211P)</p></li>",
+			"<li class=\"course\"><p>Engineering Electrochemistry: Fundamentals and Applications (ENGRMAE 212P)</p></li>",
+			"<li class=\"course\"><p>Generalized Thermodynamics (ENGRMAE 217P)</p></li>",
+			"<li class=\"course\"><p>Sustainable Energy Systems (ENGRMAE 218P)</p></li>",
+			"<li class=\"course\"><p>Solar and Renewable Energy Systems (ENGRMAE 219P)</p></li>",
+		"</ul>",
+		"<p class=\"course\">Projects:</p>",
+		"<ul class=\"courses\">",
+			"<li class=\"course\"><p>Össur Wireless Smart Device for Knee Rehabilitation</p></li>",
+			"<li class=\"course\"><p>Engineering Leadership and Entrepreneurship (CORE)</p></li>",
 		"</ul>"
 	],
 	"mae": [

@@ -80,6 +80,24 @@ $(function() {
     var content = json.edu.join('\n');
     $('.about').replaceWith('<div class="about animated fadeIn">' + content + '</div>');
 
+    $("#app-academy").click(function(e) {
+      e.preventDefault();
+      var content = json.appAcademy.join('\n');
+      $("#school").replaceWith(`<div id='school' class='animated fadeIn'>${content}</div>`)
+    });
+
+    $("#ucsd").click(function(e) {
+      e.preventDefault();
+      var content = json.ucsd.join('\n');
+      $("#school").replaceWith(`<div id='school' class='animated fadeIn'>${content}</div>`)
+    });
+
+    $("#uci").click(function(e) {
+      e.preventDefault();
+      var content = json.uci.join('\n');
+      $("#school").replaceWith(`<div id='school' class='animated fadeIn'>${content}</div>`)
+    });
+
     $("#math").click(function(e) {
       console.log("math was clicked")
       e.preventDefault();
@@ -95,11 +113,11 @@ $(function() {
     });
   });
 
-  $("#work").click(function(e) {
-    e.preventDefault();
-    var content = json.work.join('\n');
-    $('.about').replaceWith('<div class="about animated fadeIn">' + content + '</div>');
-  });
+  // $("#work").click(function(e) {
+  //   e.preventDefault();
+  //   var content = json.work.join('\n');
+  //   $('.about').replaceWith('<div class="about animated fadeIn">' + content + '</div>');
+  // });
 
 });
 

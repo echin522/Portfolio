@@ -287,6 +287,13 @@
 	margin-top: 10%;
 }
 
+.school-names {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: large;
+}
+
 #about .section.group .col:first-child {
 	position: sticky;
     top: 30vh;
