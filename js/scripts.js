@@ -90,6 +90,21 @@ $(function() {
       e.preventDefault();
       var content = json.ucsd.join('\n');
       $("#school").replaceWith(`<div id='school' class='animated fadeIn'>${content}</div>`)
+
+      $("#math").click(function(e) {
+        console.log("math was clicked")
+        e.preventDefault();
+        var content = json.math.join('\n');
+        $('.courses').replaceWith('<ul class="courses animated fadeIn">' + content + '</ul>');
+      });
+
+      $("#mae").click(function(e) {
+        console.log("mae was clicked")
+        e.preventDefault();
+        var content = json.mae.join('\n');
+        $('.courses').replaceWith('<ul class="courses animated fadeIn">' + content + '</ul>');
+      });
+      
     });
 
     $("#uci").click(function(e) {
