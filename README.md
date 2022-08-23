@@ -6,6 +6,6 @@ There is a standard desktop version as well as a mobile version so you can view 
 
 ![Desktop View](https://i.imgur.com/n9lBTaL.gif)
 
-![Mobile View]([img]https://i.imgur.com/b2my2cF.gif)
+![Mobile View](https://i.imgur.com/b2my2cF.gif)
 
 This project was made using vanilla Javascript and CSS.
