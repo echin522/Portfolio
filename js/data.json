@@ -83,23 +83,6 @@
 		"<li class=\"course\"><p>Introduction to Numerical Analysis: Approximation and Nonlinear Equations (MATH 170B)</p></li>"
 	],
 	"work": [
-		"<a href=\"https://www.dapperlabs.com/\"><img class=\"logo\" src=\"img/dapper.jpg\"></img></a>",
-		"<h2 class=\"role\"><a href=\"https://www.dapperlabs.com/\">Dapper Labs</a> Intern @ <a href=\"https://www.axiomzen.co/\">Axiom Zen</a></h2>",
-		"<p class=\"date\">June 2019 – Present</p>",
-		"<a href=\"https://consensys.net/\"><img class=\"logo consensys\" src=\"img/consensys.png\"></img></a>",
-		"<h2 class=\"role\"><a href=\"https://bounties.network/\">Bounties Network</a> Intern @ <a href=\"https://consensys.net/\">ConsenSys</a></h2>",
-		"<p class=\"date\">June 2018 – Aug 2018</p>",
-		"<a href=\"https://www.udacity.com/\"><img class=\"logo udacity\" src=\"img/udacity.png\"></img></a>",
-		"<h2 class=\"role\">Expert-in-Residence @ <a href=\"https://www.udacity.com/\">Udacity</a></h2>",
-		"<p class=\"date\">June 2018 – Nov 2018</p>",
-		"<a href=\"https://blockchain.berkeley.edu/\"><img class=\"logo bab\" src=\"img/bab.png\"></img></a>",
-		"<h2 class=\"role\">Education @ <a href=\"https://blockchain.berkeley.edu/\">Blockchain at Berkeley</a></h2>",
-		"<p class=\"date\">January 2017 – Present</p>",
-		"<a href=\"https://innovativedesign.club/\"><img class=\"logo innod\" src=\"img/innod.png\"></img></a>",
-		"<h2 class=\"role\">Web @ <a href=\"https://innovativedesign.club/\">Innovative Design</a></h2>",
-		"<p class=\"date\">Aug 2018 – Present</p>",
-		"<a href=\"http://www.dailycal.org/\"><img class=\"logo\" src=\"img/dc.png\"></img></a>",
-		"<h2 class=\"role\">Infrastructure @ <a href=\"http://www.dailycal.org/\">The Daily Cal</a></h2>",
-		"<p class=\"date\">May 2018 – Aug 2018</p>"
+		
 	]
 }
